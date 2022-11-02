@@ -1,4 +1,4 @@
-## Your Name
+## Graeme Paterson
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -53,7 +53,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Nov 2022 to Feb 2023)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,13 +62,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Queensland University of Technology (Australia) (2011 to 2012)
 
-- Subject, any specialisms
-- Grade
+- Bachelor Applied Science (Paramedic)
+- Distinction
 - Other cool stuff
 
-#### Any other qualifications
+#### University of Queensland (Australia) (2006 to 2008)
+
+- Bachelor of Science, majoring in Physiology and Anatomy
+- Credit
+- Other cool stuff
+
+#### Kenmore State High School
 
 That in some arguable way make you a better software developer or well-rounded person
 

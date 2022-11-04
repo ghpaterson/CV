@@ -1,6 +1,6 @@
 ## Graeme Paterson
 
-I am a future full stack web developer currently in the deep-end at Makers Academy, and loving every minute. With ten years experience working with patients in public healthcare systems I have a passion for providing better services to society and ensuring that everyone from our communities have equal access to healthcare.
+I am a future full stack web developer currently in the deep-end at Makers Academy, and loving every minute. With ten years experience working with patients in public healthcare systems I have a passion for providing better services to society and ensuring that everyone from our communities have equal access to healthcare. I’m motivated to work in tech for its potential power to drive positive change in our world. Having this primary driver beyond personal or financial gain means I’m motivated not only to ensure my own work is done well but always considering the success of the wider project and team as a whole.
 
 I have an untapped love for design and art. I am interested in how products, fashion and events can become more sustainable.
 
@@ -19,16 +19,17 @@ _Specialist Paramedic_
 
 - Providing emergency healthcare to communities in London as solo responder.
 - Providing specialist expertice in association with the Met Police to deliver care in hotile environments including; Mass            casualty incidents, terrorist attacks and incidents involving the Specialist Armed Police.
+- Mentored university students and members of the armed forces during practical placements
 
 **Queensland Ambulance Service** (2013 to 2015)  
 _Paramedic_
 
 - Providing emergency healthcare to communties in Australia.
+- Paramedic Tutor at the University of Central Coast
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+I am still developing my technical skills in the world of web development however I believe I have some key skills that are transferable from my career in healthcare.
 
 -STAR
 -What was the situation/task? (ST)
@@ -42,9 +43,9 @@ Consider skills relevent to software development. Then consider your best skills
 
 #### Communication
 
-- Experience
-- Achievements
-- Evidence (STAR)
+- All forms of healthcare require great communication skills. Working for the NHS means I provided services to all members of society. With London's incredible diversity I have spent eight years learning and perfecting how to communicate with all ......
+- Often members of our commiunity speak little or no english so finding alternative methods to direct conversation are important, whether thats using family members, physical queues or a langage services. 
+- Communication with other members of staff is just as important. Police, Fire Services and Ambulance Srervices are often collaborating together. Expand.....
 
 #### Another Skill
 
@@ -58,25 +59,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 #### Makers Academy (Nov 2022 to Feb 2023)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
+- 
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- 
 
 #### Queensland University of Technology (Australia) (2011 to 2012)
 
 - Bachelor Applied Science (Paramedic)
 - Distinction
-- Other cool stuff
+- 
 
 #### University of Queensland (Australia) (2006 to 2008)
 
 - Bachelor of Science, majoring in Physiology and Anatomy
 - Credit
-- Other cool stuff
+- Competed at Australian University Games as a member of the Athletics team
 
 #### Kenmore State High School
 

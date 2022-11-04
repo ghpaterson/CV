@@ -1,25 +1,29 @@
 ## Graeme Paterson
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a future full stack web developer currently in the deep-end at Makers Academy, and loving every minute. With ten years experience working with patients in public healthcare systems I have a passion for providing better services to society and ensuring that everyone from our communities have equal access to healthcare.
+
+I have an untapped love for design and art. I am interested in how products, fashion and events can become more sustainable.
+
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| ****                         |                   |                   |
+| ****                         |                   |                   |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**London Ambulance Service** (2015 to current)  
+_Specialist Paramedic_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Providing emergency healthcare to communities in London as solo responder.
+- Providing specialist expertice in association with the Met Police to deliver care in hotile environments including; Mass            casualty incidents, terrorist attacks and incidents involving the Specialist Armed Police.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Queensland Ambulance Service** (2013 to 2015)  
+_Paramedic_
 
-- Any experience relevent to software development
+- Providing emergency healthcare to communties in Australia.
 
 ## Skills
 
@@ -36,7 +40,7 @@ Consider skills relevent to software development. Then consider your best skills
 -What was the result?
 
 
-#### This Skill
+#### Communication
 
 - Experience
 - Achievements
@@ -76,8 +80,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Kenmore State High School
 
-That in some arguable way make you a better software developer or well-rounded person
+
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I love food - cooking it, eating it, trying out new places, new meals, new ingredients. I cook a lot with Asian flavours but my biggest strength is my secret recipe extra crispy roast potatoes which my friends request every Christmas. My second love is music. Seeing live music still gives me a huge buzz and a feeling of being energised after a great show.
+Sports, and watching sport is my default way to relax. It doesn’t matter what sport or who’s playing; as long as there’s a race or a ball flying around I’m in.

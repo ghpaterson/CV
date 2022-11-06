@@ -1,8 +1,8 @@
 ## Graeme Paterson
 
-I am a future full stack web developer currently in the deep-end at Makers Academy, and loving every minute. With ten years experience working with patients in public healthcare systems I have a passion for providing better services to society and ensuring that everyone from our communities have equal access to healthcare. I’m motivated to work in tech for its potential power to drive positive change in our world. Having this primary driver beyond personal or financial gain means I’m motivated not only to ensure my own work is done well but always considering the success of the wider project and team as a whole.
+I am a future full stack web developer currently in the deep-end at Makers Academy coding bootcamp, and loving every minute. With ten years experience working with patients in public healthcare systems I have a passion for providing better services to society and ensuring that everyone from our communities have equal access to healthcare. I’m motivated to work in tech for its potential power to drive positive change in our world. Having this primary driver beyond personal or financial gain means I’m motivated not only to ensure my own work is done well but always considering the success of the wider project and team as a whole.
 
-I have an untapped love for design and art. I am interested in how products, fashion and events can become more sustainable.
+I have an untapped love for design and art. I am interested in how products, fashion and events can become more sustainable and reduce the negative impacts on the environment while still delivering a great product.
 
 
 ## Projects
@@ -31,43 +31,30 @@ _Paramedic_
 
 I am still developing my technical skills in the world of web development however I believe I have some key skills that are transferable from my career in healthcare.
 
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
 
 #### Communication
 
-- All forms of healthcare require great communication skills. Working for the NHS means I provided services to all members of society. With London's incredible diversity I have spent eight years learning and perfecting how to communicate with all ......
+- All forms of healthcare require great communication skills. Working for the NHS means I provided services to all members of society. With London's incredible diversity I have spent eight years learning and perfecting how to communicate with all walks of life.
 - Often members of our commiunity speak little or no english so finding alternative methods to direct conversation are important, whether thats using family members, physical queues or a langage services. 
-- Communication with other members of staff is just as important. Police, Fire Services and Ambulance Srervices are often collaborating together. Expand.....
+- Communication with other members of staff is just as important. Police, Fire Services and Ambulance Srervices are often collaborating together. Working together in teams of people who have just met is challenging but is something I experienced daily and often turned out to be one of the most rewarding. 
 
-#### Another Skill
+#### Creative problem solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+In my role as a paramedic I face problems everyday. Due to the nature of the work these problems are most often in difficult environments or circumstances making what would seem like a simple problem more complex. For instance doing a relatively simple proceedure in a hospital becomes more difficult when it's dark and raining or in the back seat of a car. Finding alternative or creative ways to solve problems is a skill I use daily.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
 #### Makers Academy (Nov 2022 to Feb 2023)
-- 
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- 
+- Experience with Ruby 
+- Frequently used paring in order to problem solve effeciently, requiring teamwork and communication.
+
 
 #### Queensland University of Technology (Australia) (2011 to 2012)
 
 - Bachelor Applied Science (Paramedic)
 - Distinction
-- 
+
 
 #### University of Queensland (Australia) (2006 to 2008)
 

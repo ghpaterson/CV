@@ -10,9 +10,9 @@ I have an untapped love for design and art. I am interested in how products, fas
 
 ## Projects
 
-| Project       | Description                                                                                                                                  | Code/Demo Links                                    | Technologies Used | Testing Technologies |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------- | -------------------- |
-| [Ecoliday][2] | A web application allowing users to make informed decisions about their travel based on the carbon emissions of different modes of transport | JavaScript, React, Node.js, MongoDB, CSS, Tailwind | Jest, Cypress     |
+| Project       | Description                                                                                                                                  | Technologies Used                                  | Testing Technologies |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------------------- |
+| [Ecoliday][2] | A web application allowing users to make informed decisions about their travel based on the carbon emissions of different modes of transport | JavaScript, React, Node.js, MongoDB, CSS, Tailwind | Jest, Cypress        |
 
 ## Skills
 
@@ -27,21 +27,6 @@ I am still developing my technical skills in the world of web development howeve
 #### Creative problem solving
 
 In my role as a paramedic I face problems everyday. Due to the nature of the work these problems are most often in difficult environments or circumstances making what would seem like a simple problem more complex. For instance doing a relatively simple proceedure in a hospital becomes more difficult when it's dark and raining or in the back seat of a car. Finding alternative or creative ways to solve problems is a skill I use daily.
-
-## Work Experience
-
-**London Ambulance Service** (2015 to current)  
-_Specialist Paramedic_
-
-- Providing emergency healthcare to communities in London as solo responder.
-- Providing specialist expertice in association with the Met Police to deliver care in hotile environments including; Mass casualty incidents, terrorist attacks and incidents involving the Specialist Armed Police.
-- Mentored university students and members of the armed forces during practical placements
-
-**Queensland Ambulance Service** (2013 to 2015)  
-_Paramedic_
-
-- Providing emergency healthcare to communties in Australia.
-- Paramedic Tutor at the University of Central Coast
 
 ## Education
 
@@ -61,9 +46,22 @@ _Paramedic_
 - Credit
 - Competed at Australian University Games as a member of the Athletics team
 
-#### Kenmore State High School
+## Work Experience
 
-## Hobbies
+**London Ambulance Service** (2015 to current)  
+_Specialist Paramedic_
+
+- Providing emergency healthcare to communities in London as solo responder.
+- Providing specialist expertice in association with the Met Police to deliver care in hotile environments including; Mass casualty incidents, terrorist attacks and incidents involving the Specialist Armed Police.
+- Mentored university students and members of the armed forces during practical placements
+
+**Queensland Ambulance Service** (2013 to 2015)  
+_Paramedic_
+
+- Providing emergency healthcare to communties in Australia.
+- Paramedic Tutor at the University of Central Coast
+
+## Interests
 
 I love food - cooking it, eating it, trying out new places, new meals, new ingredients. I cook a lot with Asian flavours but my biggest strength is my secret recipe extra crispy roast potatoes which my friends request every Christmas. My second love is music. Seeing live music still gives me a huge buzz and a feeling of being energised after a great show.
 Sports, and watching sport is my default way to relax. It doesn’t matter what sport or who’s playing; as long as there’s a race or a ball flying around I’m in.

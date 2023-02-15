@@ -10,30 +10,46 @@ I have an untapped love for design and art. I am interested in how products, fas
 
 ## Projects
 
-| Project       | Description                                                                                                                                  | Technologies Used                                  | Testing Technologies |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------------------- |
-| [Ecoliday][2] | A web application allowing users to make informed decisions about their travel based on the carbon emissions of different modes of transport | JavaScript, React, Node.js, MongoDB, CSS, Tailwind | Jest, Cypress        |
+| Project        | Description                                                                                                                                  | Technologies Used                                  | Testing Technologies |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------------------- |
+| [Ecoliday][2]  | A web application allowing users to make informed decisions about their travel based on the carbon emissions of different modes of transport | JavaScript, React, Node.js, MongoDB, CSS, Tailwind | Jest, Cypress        |
+| [Mineshaft][3] | A facebook clone - First experience working with the MERN stack to create a web application                                                  | JavaScript, React, Node.js, MongoDB, CSS, Tailwind | Jest, Cypress        |
+
+\*All source code available on Github: [https://github.com/ghpaterson[1]
 
 ## Skills
-
-I am still developing my technical skills in the world of web development however I believe I have some key skills that are transferable from my career in healthcare.
 
 #### Communication
 
 - All forms of healthcare require great communication skills. Working for the NHS means I provided services to all members of society. With London's incredible diversity I have spent eight years learning and perfecting how to communicate with all walks of life.
-- Often members of our commiunity speak little or no english so finding alternative methods to direct conversation are important, whether thats using family members, physical queues or a langage services.
+
 - Communication with other members of staff is just as important. Police, Fire Services and Ambulance Srervices are often collaborating together. Working together in teams of people who have just met is challenging but is something I experienced daily and often turned out to be one of the most rewarding.
 
 #### Creative problem solving
 
-In my role as a paramedic I face problems everyday. Due to the nature of the work these problems are most often in difficult environments or circumstances making what would seem like a simple problem more complex. For instance doing a relatively simple proceedure in a hospital becomes more difficult when it's dark and raining or in the back seat of a car. Finding alternative or creative ways to solve problems is a skill I use daily.
+In my role as a paramedic I face problems everyday. Due to the nature of the work these problems are most often in difficult environments or circumstances making what would seem like a simple problem more complex. Finding alternative or creative ways to solve problems is a skill I use daily.
+
+#### Adaptable
+
+#### Working in a team
+
+#### Commited to continued learning
+
+#### Attention to detail
 
 ## Education
 
 #### Makers Academy (Nov 2022 to Feb 2023)
 
-- Experience with Ruby
-- Frequently used paring in order to problem solve effeciently, requiring teamwork and communication.
+Selective 12 week intensive coding bootcamp.
+
+- Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way
+- Object oriented programming & software design
+- Full stack web development
+- Experience with Ruby and Javascript languages
+- Independent learner and problem-solver
+- Experience with MVC framework patterns
+- Final project: Ecoliday. A guide to carbon emissions based on various forms of transportation.
 
 #### Queensland University of Technology (Australia) (2011 to 2012)
 
@@ -46,7 +62,7 @@ In my role as a paramedic I face problems everyday. Due to the nature of the wor
 - Credit
 - Competed at Australian University Games as a member of the Athletics team
 
-## Work Experience
+## Experience
 
 **London Ambulance Service** (2015 to current)  
 _Specialist Paramedic_

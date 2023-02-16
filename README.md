@@ -27,7 +27,7 @@ I have an untapped love for design and art. I am interested in how products, fas
 
 #### Creative problem solving
 
-In my role as a paramedic I face problems everyday. Due to the nature of the work these problems are most often in difficult environments or circumstances making what would seem like a simple problem more complex. Finding alternative or creative ways to solve problems is a skill I use daily.
+- In my role as a paramedic I faced problems everyday. Due to the nature of the work these problems are most often in difficult environments or circumstances making what would seem like a simple problem more complex. Finding alternative or creative ways to solve problems is a skill I use daily.
 
 #### Adaptable
 
@@ -35,7 +35,11 @@ In my role as a paramedic I face problems everyday. Due to the nature of the wor
 
 #### Commited to continued learning
 
+- As a healthcare professional I have shown a strong commitment to continued learning. It is essential for maintaining high standards of care as the industry is constanly evolving with new treatments, technolgies and best practices. As a software engineer, the same mindset is critical in order to remain up-to-date with the latest programming languages, frameworks, and tools, and to ensure that your work is efficient, secure, and high-performing.
+
 #### Attention to detail
+
+- In my role as a Paramedic I have displayed high levels of attention to detail, it is vital to ensure the safety and wellbeing of patients. I have also been able to display this attention to detail as a software engineer, whether that is wrting new applications, bebugging or testing my codebase.
 
 ## Education
 
@@ -81,3 +85,6 @@ _Paramedic_
 
 I love food - cooking it, eating it, trying out new places, new meals, new ingredients. I cook a lot with Asian flavours but my biggest strength is my secret recipe extra crispy roast potatoes which my friends request every Christmas. My second love is music. Seeing live music still gives me a huge buzz and a feeling of being energised after a great show.
 Sports, and watching sport is my default way to relax. It doesn’t matter what sport or who’s playing; as long as there’s a race or a ball flying around I’m in.
+
+[2]: https://github.com/ghpaterson/Ecoliday
+[3]: https://github.com/ghpaterson/acebook-mineshaft

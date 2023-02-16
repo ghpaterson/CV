@@ -6,7 +6,7 @@
 
 I am a junior full stack web developer looking to specialise in frontend development. I have just finished a 12 week intensive bootcamp at Makers Academy, and loved every minute. With ten years experience working with patients in public healthcare systems I have a passion for providing better services to society and ensuring that everyone from our communities have equal access to healthcare. I’m motivated to work in tech for its potential power to drive positive change in our world. Having this primary driver beyond personal or financial gain means I’m motivated not only to ensure my own work is done well but always considering the success of the wider project and team as a whole.
 
-I have an untapped love for design and art. I am interested in how products, fashion and events can become more sustainable and reduce the negative impacts on the environment while still delivering a great product.
+Despite my primary focus in healthcare, I have an unexplored passion for design and art. I am particularly interested in how products, fashion, and events can be made more sustainable to reduce their negative impact on the environment. My interest in this field is motivated by a desire to contribute to a more sustainable future and make a positive impact on the world around me.
 
 ## Projects
 
@@ -27,19 +27,23 @@ I have an untapped love for design and art. I am interested in how products, fas
 
 #### Creative problem solving
 
-- In my role as a paramedic I faced problems everyday. Due to the nature of the work these problems are most often in difficult environments or circumstances making what would seem like a simple problem more complex. Finding alternative or creative ways to solve problems is a skill I use daily.
-
-#### Adaptable
+- As a paramedic, problem-solving is a critical part of my everyday work. However, due to the unpredictable and challenging nature of the job, the problems I face can often be complex and arise in difficult environments or circumstances. This means that finding solutions requires me to think creatively and consider alternative approaches. Over time, I have developed strong problem-solving skills that I use on a daily basis to overcome obstacles.
 
 #### Working in a team
+
+- While I am self-motivated, I thrive on collaborating with others and enjoy working in a team environment as a software engineer. Pair-programming and group projects have been particularly fulfilling, allowing me to work with others to build programs and applications. Collaboration and teamwork are also crucial in healthcare, where delivering the best possible care to patients requires a team effort. As a healthcare professional, I have always been motivated to work with a team of colleagues to ensure that patients receive the highest quality care possible.
 
 #### Commited to continued learning
 
 - As a healthcare professional I have shown a strong commitment to continued learning. It is essential for maintaining high standards of care as the industry is constanly evolving with new treatments, technolgies and best practices. As a software engineer, the same mindset is critical in order to remain up-to-date with the latest programming languages, frameworks, and tools, and to ensure that your work is efficient, secure, and high-performing.
 
+#### Adaptable
+
+- As a software engineer, adaptability is crucial due to the constantly evolving nature of the industry and the diverse range of individuals who work within it. In my experience, I have demonstrated adaptability while working on group projects and engaging in pair-programming, which has allowed me to remain flexible and collaborate effectively with others. Similarly, as a paramedic, adaptability is a key attribute needed to function effectively in a constantly changing work environment. My ability to adapt to new situations and quickly develop effective solutions has helped me provide high-quality care to my patients and support my team in delivering exceptional service.
+
 #### Attention to detail
 
-- In my role as a Paramedic I have displayed high levels of attention to detail, it is vital to ensure the safety and wellbeing of patients. I have also been able to display this attention to detail as a software engineer, whether that is wrting new applications, bebugging or testing my codebase.
+- In my role as a Paramedic I have displayed high levels of attention to detail, it is vital to ensure the safety and wellbeing of patients. I have also been able to display this attention to detail as a software engineer, whether that is writing new applications, bebugging or testing my codebase.
 
 ## Education
 

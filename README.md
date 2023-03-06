@@ -1,7 +1,5 @@
 ## Graeme Paterson
 
-## [Portfolio][6]
-
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 
 I am a junior full stack web developer looking to specialise in frontend development. I have just finished a 12 week intensive bootcamp at Makers Academy, and loved every minute. With ten years experience working with patients in public healthcare systems I have a passion for providing better services to society and ensuring that everyone from our communities have equal access to healthcare. I’m motivated to work in tech for its potential power to drive positive change in our world. Having this primary driver beyond personal or financial gain means I’m motivated not only to ensure my own work is done well but always considering the success of the wider project and team as a whole.
@@ -9,6 +7,8 @@ I am a junior full stack web developer looking to specialise in frontend develop
 Despite my primary focus in healthcare, I have an unexplored passion for design and art. I am particularly interested in how products, fashion, and events can be made more sustainable to reduce their negative impact on the environment. My interest in this field is motivated by a desire to contribute to a more sustainable future and make a positive impact on the world around me.
 
 ## Projects
+
+# [Portfolio][6]
 
 | Project        | Description                                                                                                                                  | Technologies Used                                  | Testing Technologies |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------------------- |

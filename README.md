@@ -13,6 +13,7 @@ Despite my primary focus in healthcare, I have an unexplored passion for design 
 | Project        | Description                                                                                                                                  | Technologies Used                                  | Testing Technologies |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------------------- |
 | [Ecoliday][2]  | A web application allowing users to make informed decisions about their travel based on the carbon emissions of different modes of transport | JavaScript, React, Node.js, MongoDB, CSS, Tailwind | Jest, Cypress        |
+| [Recipeas][4]  | A web application allowing users to find recipes based on categories or through an ingredients search                                        | JavaScript, React, Next.js, CSS, Tailwind          |                      |
 | [Mineshaft][3] | A facebook clone - First experience working with the MERN stack to create a web application                                                  | JavaScript, React, Node.js, MongoDB, CSS, Tailwind | Jest, Cypress        |
 
 \*All source code available on Github: [https://github.com/ghpaterson[1]
@@ -92,3 +93,4 @@ Sports, and watching sport is my default way to relax. It doesn’t matter what 
 
 [2]: https://github.com/ghpaterson/Ecoliday
 [3]: https://github.com/ghpaterson/acebook-mineshaft
+[4]: https://github.com/ghpaterson/recipease

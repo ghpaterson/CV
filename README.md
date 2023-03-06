@@ -94,5 +94,5 @@ Sports, and watching sport is my default way to relax. It doesn’t matter what 
 
 [2]: https://github.com/ghpaterson/Ecoliday
 [3]: https://github.com/ghpaterson/acebook-mineshaft
-[4]: https://github.com/ghpaterson/recipease
+[4]: https://github.com/ghpaterson/recipease/tree/main/recipease
 [5]: https://github.com/ghpaterson/react-portfolio/tree/main/portfolio

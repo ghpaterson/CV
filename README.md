@@ -8,7 +8,7 @@ Despite my primary focus in healthcare, I have an unexplored passion for design 
 
 ## Projects
 
-# [Portfolio][6]
+### [Portfolio][6]
 
 | Project        | Description                                                                                                                                  | Technologies Used                                  | Testing Technologies |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------------------- |

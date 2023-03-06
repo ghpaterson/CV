@@ -1,6 +1,6 @@
 ## Graeme Paterson
 
----
+## [Portfolio][6]
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 
@@ -96,3 +96,4 @@ Sports, and watching sport is my default way to relax. It doesn’t matter what 
 [3]: https://github.com/ghpaterson/acebook-mineshaft
 [4]: https://github.com/ghpaterson/recipease/tree/main/recipease
 [5]: https://github.com/ghpaterson/react-portfolio/tree/main/portfolio
+[6]: https://graeme-paterson-portfolio.vercel.app/
